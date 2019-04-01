@@ -5,7 +5,7 @@
 **Objectives**
 
 1. Lexical Analyzer
-2. 
+2. Syntax Analyzer
 
 **Steps**
 
@@ -25,4 +25,10 @@
     `sudo make install`
 
     Source: https://geeksww.com/tutorials/miscellaneous/bison_gnu_parser_generator/installation/installing_bison_gnu_parser_generator_ubuntu_linux.php
-4. 
+
+**Programs**
+
+1. Program to count number of words: words_count.l
+2. Program to ignore comments from a file. (C/C++ Style comments: / and /*)
+3.
+4. Syntax Analysis using yacc
