@@ -6,6 +6,9 @@
 
 1. Lexical Analyzer
 2. 
+
+**Steps**
+
 1. Installed flex and bison parser generator.
 2. Installing Flex:
     `sudo apt-get update`
